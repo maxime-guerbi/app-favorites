@@ -1,0 +1,139 @@
+body{
+    text-align: center;
+    background-color: lightgray;
+    font-style: italic;
+    scroll-behavior: smooth;
+    line-height: 1;
+    font-size: 1em;
+  }
+  
+  
+  .button {
+      background-color: #1c87c9;
+      border: none;
+      color: white;
+      padding: 20px 34px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 20px;
+      margin: 4px 2px;
+      cursor: pointer;
+      }
+  
+  div#conteneur
+  {
+    width: 770px ;
+    margin: 0 auto ;
+    text-align: left ;
+  }
+  h1#header
+  {
+    width: 200px;
+    height: 50px ;
+  
+  }
+  
+  pre
+  {
+    overflow: auto ;
+  }
+  
+  .imagespotify{
+      
+  width: 90px; 
+  height:100px; 
+  margin-right: 270px;
+  margin-top: -90px;
+  }
+  
+  .logo{
+      width: 100px; 
+  height:100px; 
+  margin-right: 10px;
+  
+  }
+  
+  
+  
+  
+  
+  .img{
+     width: 100px; 
+     height:100px;
+     margin-right: 200px;
+     
+  
+  }
+  
+  
+  .spotify{
+      width: 1500px; 
+      height:100px;
+      margin-right: 100px;
+      margin-top: 10px;
+  }
+  
+  .texte{
+    color: #1c87c9;
+    width: 1200px; 
+      height:100px;
+      margin-top: -10px;
+  
+  }
+  
+  .image{
+    width: 100px; 
+    height:100px;
+    margin-right: 350px;
+  }
+  
+  
+  
+  
+  
+  .toon{
+    color: #1c87c9;
+    width: 1500px; 
+      height: 5px;
+      margin-top: -100px;
+  }
+  
+  
+  .twitch{
+    color:#1c87c9;
+      height: 10px;
+      margin-top: -130px;
+      margin-left: -50px;
+  }
+  
+  .logo{
+    width: 120px; 
+    height:100px;
+    margin-right: -150px;
+    margin-left: -200px;
+  }
+  
+  .presentation{
+    color: #1c87c9;
+    width: 1500px; 
+      height: 5px;
+      margin-top: 50px;
+  }
+  
+  .explication{
+    color: #1c87c9;
+    width: 1500px; 
+      height: 5px;
+      margin-top: 80px;
+  }
+  
+  footer {
+    height: 100px;
+    text-align: center;
+    background-color: rgba(226, 226, 226, 0.75);
+  }
+  footer a {
+    color : white;
+  
+  }

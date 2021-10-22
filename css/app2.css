@@ -1,0 +1,46 @@
+.app2{
+    background-color: oldlace;
+    scroll-behavior: smooth;
+    line-height: 1.15;
+	margin : 0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.3em;
+    font-weight: 900
+
+}
+
+.fond{
+    margin-top: 0000px;
+    margin-left: 500px;
+}
+
+.toonn{
+    margin-top: -500px;
+    height: 300px;
+    width: 300px;
+}
+
+.qr{
+    height: 100px;
+    width: 100px;
+}
+
+.presentationwebtoon{
+
+   margin-left: 600px;
+   margin-top: -200px;
+}
+
+.slogan2{
+  margin-top: 180px;
+}
+
+.image{
+    width: 100px;
+}
+
+footer {
+    display: flex;
+    padding: 2em;
+    justify-content: space-around;
+}
